@@ -65,7 +65,7 @@ class MinHeap:
             self.min_heapify(0)
         return min_val
 
-# his fuction Inserts a new element into the heap while maintaining the heap property.
+# This fuction Inserts a new element into the heap while maintaining the heap property.
 
     def insert_value(self, val):
         
